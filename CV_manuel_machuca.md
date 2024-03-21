@@ -24,9 +24,6 @@ pueda formar, para de este modo aumentar mi experiencia profesional en un entorn
   - **Institución:** EESO N° 204 Domingo de Oro
   - **Año de Graduación:** 2016
 
-## Habilidades
-- [Lista de habilidades relevantes, por ejemplo: programación, gestión de proyectos, idiomas, etc.]
-
 ## Idiomas
 - **Ingles:** Hablado basico, Escrito basico
 
