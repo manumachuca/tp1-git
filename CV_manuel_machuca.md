@@ -27,9 +27,6 @@ pueda formar, para de este modo aumentar mi experiencia profesional en un entorn
 ## Idiomas
 - **Ingles:** Hablado basico, Escrito basico
 
-## Certificaciones
-- **[Nombre de la Certificación]:** [Institución Emisora] - [Año de Obtención]
-
 ## Otros Datos de Interes
 - Disponibilidad horaria
 - Carnet de Conducir A2.1 B1. Disponibildad para Viajar.
