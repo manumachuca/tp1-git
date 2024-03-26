@@ -3,7 +3,7 @@
 ## Información Personal
 - **Nombre:** Brian Mareniov
 - **Fecha de nacimiento:** 28/07/1994
-- **Dirección:** Lainez 
+- **Dirección:** Lainez 630
 - **Localidad:** Sunchales 
 - **Teléfono:** +54 3493 520736
 - **Correo Electrónico:** brian.Mareniov@gmail.com
